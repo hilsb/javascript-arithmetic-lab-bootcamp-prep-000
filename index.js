@@ -29,7 +29,7 @@ function inc(n){
 }
 
 function makeInt(n){
-  parseInt('0', 10);
+  parseInt('10', 10);
     return n;
 }
 
