@@ -28,8 +28,8 @@ function inc(n){
     return a += 1;
 }
 
-function makeInt(n){
-  parseInt('0x2328', 0);
+function makeInt('0x2328'){
+  parseInt(n, 0);
     return n;
 }
 
