@@ -1,5 +1,10 @@
 function add(x, y){
-  var z = x +y;
+  var z = x + y;
+    return z;
+}
+
+function subtract(x, y){
+  var z = x - y;
     return z;
 }
 
