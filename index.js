@@ -1,4 +1,4 @@
 function inc(n){
-  var a = ${n};
+  var a = n;
     return a += 1;
 }
