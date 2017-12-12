@@ -45,6 +45,6 @@ function preserveDecimal(n){
 
 function preserveDecimal(n){
   parseInt(2.222);
-  
+
     return n;
 }
