@@ -8,6 +8,11 @@ function subtract(x, y){
     return z;
 }
 
+function multiply(x, y){
+  var z = x * y;
+    return z;
+}
+
 function dec(n){
   var a = n;
     return a -+ 1;
