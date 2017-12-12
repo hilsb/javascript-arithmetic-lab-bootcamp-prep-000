@@ -30,7 +30,6 @@ function inc(n){
 
 function makeInt(n){
   parseInt('0x2328', 0);
-  n = parseInt;
     return n;
 }
 
@@ -41,5 +40,10 @@ function makeInt(n){
 
 function preserveDecimal(n){
   parseInt('n', 10);
+    return n;
+}
+
+function preserveDecimal(n){
+  parseInt(2.222);
     return n;
 }
