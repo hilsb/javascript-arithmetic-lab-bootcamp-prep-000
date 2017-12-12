@@ -1,5 +1,5 @@
 function add(x, y){
-  var z = 1 + 80;
+  var z = x +y;
     return z;
 }
 
