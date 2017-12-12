@@ -44,6 +44,6 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  parseInt(2.222);
+  parseInt('2.222', n);
     return n;
 }
