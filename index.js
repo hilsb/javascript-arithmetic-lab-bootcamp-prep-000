@@ -1,3 +1,8 @@
+function add(n){
+  var add = (3, 5);
+    return add;
+}
+
 function dec(n){
   var a = n;
     return a -+ 1;
