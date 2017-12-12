@@ -1,6 +1,4 @@
-var 3, 8;
-
-function add(){
-  add(3, 8);
-    return add;
+function inc(n){
+  var a = ${n};
+    return a += 1;
 }
