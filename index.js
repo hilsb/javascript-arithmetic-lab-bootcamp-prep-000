@@ -28,7 +28,7 @@ function inc(n){
     return a += 1;
 }
 
-function makeInt(n){
+function makeInt(n, 10){
   parseInt('n', 10);
     return n;
 }
@@ -42,3 +42,5 @@ function preserveDecimal(n){
   parseInt('2.2222', 10)
     return n;
 }
+
+
