@@ -1,4 +1,3 @@
-function add(){
-  800 + 89;
-    return(add);
-}
+var x = 1;
+var y = 2;
+var z = x + y;
