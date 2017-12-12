@@ -29,8 +29,13 @@ function inc(n){
 }
 
 function makeInt(n){
+  parseInt(n);
+    return n;
+}
+
+function makeInt(n){
   parseInt(n, 10);
-    return 10;
+    return n;
 }
 
 function preserveDecimal(n){
