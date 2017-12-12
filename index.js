@@ -1,6 +1,6 @@
 function add(n){
   var add = (3, 5);
-    return add;
+    return n;
 }
 
 function dec(n){
