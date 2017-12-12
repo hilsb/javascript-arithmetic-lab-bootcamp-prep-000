@@ -28,8 +28,8 @@ function inc(n){
     return a += 1;
 }
 
-function makeInt(n){
-  parseInt('0x2328', 0);
+function makeInt('0x2328'){
+  parseInt(n, 10);
     return n;
 }
 
@@ -45,5 +45,6 @@ function preserveDecimal(n){
 
 function preserveDecimal(n){
   parseInt(2.222);
+  
     return n;
 }
