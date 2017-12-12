@@ -30,6 +30,7 @@ function inc(n){
 
 function makeInt(n){
   parseInt('0x2328', 0);
+  n = parseInt;
     return n;
 }
 
