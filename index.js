@@ -1,6 +1,6 @@
-function add(n, x){
-  1 + 80
-    return n;
+function add(x, y){
+  var z = 1 + 80;
+    return z;
 }
 
 function dec(n){
